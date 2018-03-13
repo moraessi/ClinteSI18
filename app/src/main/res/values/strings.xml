@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClinteSI18</string>
+    <string name="busca_cliente">nome do cliente</string>
+    <string name="botao_busca">Buscar</string>
+
+
+</resources>
